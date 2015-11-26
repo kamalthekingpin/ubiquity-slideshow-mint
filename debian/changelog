@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint13) rosa; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 26 Nov 2015 16:29:56 +0000
+
 ubiquity-slideshow-mint (70mint12) qiana; urgency=medium
 
   * Fixed a typo in the German translation
