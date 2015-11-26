@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint14) rosa; urgency=medium
+
+  * Fixed funny bug in packaging which skipped translations for locales ending with "o" :)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 26 Nov 2015 16:43:55 +0000
+
 ubiquity-slideshow-mint (70mint13) rosa; urgency=medium
 
   * Updated translations
