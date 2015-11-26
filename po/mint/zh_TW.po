@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2014-01-23 00:12+0000\n"
-"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"PO-Revision-Date: 2015-11-02 00:54+0000\n"
+"Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
-"X-Generator: Launchpad (build 16985)\n"
+"X-Launchpad-Export-Date: 2015-11-13 22:11+0000\n"
+"X-Generator: Launchpad (build 17845)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
 msgid "Stay connected"
-msgstr "保持連繫"
+msgstr "保持聯繫"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/chat.html:8
@@ -29,15 +29,15 @@ msgid ""
 "favorite social networks. Linux Mint provides all you need to interact with "
 "Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
 msgstr ""
-"用電子郵件、即時通訊軟體或社群網站與您的朋友保持連繫。Linux Mint 滿足您在 "
-"Twitter、Facebook、MSN、ICQ、GoogleTalk、AIM、Yahoo 等與其他人互動的需要。"
+"用 email，通訊軟體，或在您喜歡的社群網站上與您的朋友和聯絡人保持聯繫。Linux Mint 能滿足您在 "
+"Twitter，Facebook，MSN，ICQ，GoogleTalk，AIM，Yahoo，或其他網路上與他人互動的所有需求。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "包含軟體"
+msgstr "內建軟體"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -57,7 +57,7 @@ msgstr "Xchat"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/customize.html:1
 msgid "Customize your desktop"
-msgstr "個人化您的桌面"
+msgstr "自訂您的桌面"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/customize.html:8
@@ -65,13 +65,12 @@ msgid ""
 "Make yourself at home and modify any aspect of your desktop. Choose from a "
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
-msgstr ""
-"您可以調整桌面上的任何外觀，就像在自己家一樣。您可以從豐富多樣的佈景主題、圖示和背景中自由選擇。Linux Mint 非常開放自由且易於個人化。"
+msgstr "您可以調整桌面上的任何外觀，並從豐富多樣的佈景主題，圖示，與背景裡自由選擇。Linux Mint 是個開放且易於自訂的作業系統。"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
 msgid "Find help"
-msgstr "尋求幫助"
+msgstr "尋求協助"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/help.html:8
@@ -82,13 +81,13 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"如果您感到好奇或遭遇到問題，請儘管發問吧。Linux Mint "
-"在世界上最被廣泛使用的操作系統中名列第四。它備有使用說明、社群網站、功能導引、論壇、聊天室。其社群是網路上最具活力的社群之一。"
+"如果您有感到好奇的地方，或是遭遇到任何問題，請儘管發問。Linux Mint "
+"是市佔率世界第四的作業系統。它提供完善的使用者指南，社群網站，教學文庫，動態討論區，聊天室，與網際網路上最具活力的社群!"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
 msgid "Listen to music and CDs"
-msgstr "聆聽音樂和 CD"
+msgstr "聆聽音樂與 CD"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
@@ -97,8 +96,8 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"用 Banshee 享受您的音樂。插入您的 MP3 播放器或是從您的音樂 CD 擷取歌曲。聆聽 podcast 或是網路電台。在 "
-"Last.fm、Internet Archive 以及 Amazon MP3 商店認識新的歌手。"
+"使用 Banshee 享受您的音樂。插入您的 MP3 播放器或從您的音樂 CD 擷取歌曲。聆聽 Podcast 與網路電台。從 "
+"Last.fm，Internet Archive 與 Amazon MP3 Store 探索新藝人。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -108,7 +107,7 @@ msgstr "Banshee"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
 msgid "Audio codecs"
-msgstr "音訊解碼器"
+msgstr "音訊編解碼器"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
@@ -121,7 +120,7 @@ msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
-msgstr ""
+msgstr "使用 LibreOffice 來建立與 Microsoft Office 完全相容的專業文件，試算表，與簡報。分享或遠端控制印表機。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -150,8 +149,8 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"用 gThumb 或 Picasa 組織、欣賞並分享您的照片。將您的相簿匯出至 CD、網路或是線上服務如 Flickr 或 PicasaWeb "
-"以和朋友與家人分享它們。"
+"使用 gThumb 或 Picasa 組織，欣賞，並分享您的相片。將您的相簿匯出至 CD，網路，或線上服務 (如 Flickr 或 PicasaWeb) "
+"來與朋友或家人分享。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -168,13 +167,13 @@ msgstr "安裝軟體"
 msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
-msgstr "您可在軟體管理員瀏覽超過3萬個免費的應用程式，並閱覽軟體截圖和使用者評論。若欲安裝軟體，僅需按一下滑鼠。"
+msgstr "您可以在軟體管理員瀏覽超過 30,000 個免費的應用程式，並享受螢幕截圖與使用者評論。安裝軟體僅需點擊一下滑鼠。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr "特色軟體"
+msgstr "精選軟體"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
@@ -204,25 +203,25 @@ msgstr "Google Earth"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/updates.html:1
 msgid "Keep your system up to date"
-msgstr "讓您的電腦持續更新"
+msgstr "讓您的系統保持最新"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/updates.html:8
 msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
-msgstr "在同一個地方接收修復和安全更新。包含整個系統，包括您所安裝的軟體。"
+msgstr "在同一個地方接收整個系統 (包含您所安裝的軟體) 的修復與安全性更新。"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr "觀賞影片和 DVD"
+msgstr "觀賞影片與 DVD"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
-msgstr "插入 DVD 觀賞電影。使用 VLC 觀賞高畫質 (HD) 影片。"
+msgstr "插入 DVD 並觀賞電影。使用 VLC 觀賞高畫質影片。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -237,7 +236,7 @@ msgstr "Totom"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr "影片解碼器"
+msgstr "視訊編解碼器"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
@@ -249,7 +248,7 @@ msgstr "瀏覽網路"
 msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
 "multimedia content."
-msgstr "使用 Mozilla Firefox 瀏覽網站既快速又安全。享受 Java、Flash 和各種多媒體。"
+msgstr "使用 Mozilla Firefox 瀏覽網站既快速又安全。盡情享受 Java，Flash，與多媒體內容。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
@@ -269,14 +268,14 @@ msgstr "Java"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "歡迎來到 Linux Mint"
+msgstr "歡迎使用 Linux Mint"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
 msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
-msgstr "歡迎！感謝您選擇 Linux Mint。在安裝系統至您的電腦的同時，這個投影片會帶領您進⼊ Linux Mint 的世界。"
+msgstr "歡迎! 感謝您選擇 Linux Mint。當系統安裝至您的電腦時，幻燈片放映會帶領您進⼊ Linux Mint 的世界。"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
@@ -289,8 +288,8 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"安裝 Wine 並在 Linux Mint 上執行 Windows 軟體。或是您也可以安裝 Virtualbox，就可直接在 Linux Mint "
-"中執行 Windows。"
+"安裝 Wine 並在 Linux Mint 執行 Windows 軟體。您也可以安裝 Virtualbox 以在 Linux Mint 執行 "
+"Windows。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

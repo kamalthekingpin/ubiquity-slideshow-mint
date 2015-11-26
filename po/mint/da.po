@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2014-01-28 18:42+0000\n"
+"PO-Revision-Date: 2014-10-12 10:39+0000\n"
 "Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
 "Language-Team: Danish <da@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
-"X-Generator: Launchpad (build 16985)\n"
+"X-Launchpad-Export-Date: 2015-11-13 22:11+0000\n"
+"X-Generator: Launchpad (build 17845)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -86,10 +86,11 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Hvis du er nysgerrig, eller har et problem, så bare spørg. Linux Mint er det "
-"fjerde mest udbredte styresystem. Der er en vejledning til brugere, en "
-"hjemmeside for brugere, en samling guider, aktive fora og chatrum og et af "
-"de mest dynamiske fællesskaber på internettet."
+"Hvis du er nysgerrig eller har et problem, så bare spørg. Linux Mint er et "
+"af de mest brugte styresystemer i verden (i øjeblikket det fjerde mest "
+"brugte). Det kommer med en vejledning til brugere, et website, en samling af "
+"selvstudier, aktive fora og chatrum, og et af de mest dynamiske fællesskaber "
+"på internettet."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
@@ -131,7 +132,7 @@ msgid ""
 msgstr ""
 "Anvend LibreOffice til at fremstille professionelt udseende dokumenter, "
 "regneark og præsentationer, som er kompatible med Microsoft Office. Del "
-"printere eller print via fjernadgang."
+"printere eller udskriv via fjernadgang."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -160,7 +161,7 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Organiser, nyd og del dine billeder med gThumb eller Picasa. Exportér dine "
+"Organisér, nyd og del dine billeder med gThumb eller Picasa. Eksportér dine "
 "album til CD eller onlinetjenester som Flickr eller PicasaWeb for at dele "
 "dem med venner og familie."
 
@@ -309,7 +310,7 @@ msgid ""
 "and run Windows itself within Linux Mint."
 msgstr ""
 "Installér Wine og kør Windows-programmer i Linux Mint. Eller installér "
-"Virtualbox og kør selve Windows indeni Linux Mint."
+"Virtualbox og kør Windows fra Linux Mint."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

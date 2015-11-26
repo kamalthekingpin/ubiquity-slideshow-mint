@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2013-12-02 18:31+0000\n"
-"Last-Translator: Hromin <Unknown>\n"
+"PO-Revision-Date: 2015-07-01 10:53+0000\n"
+"Last-Translator: CyberTailor <CyberTailor@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
-"X-Generator: Launchpad (build 16985)\n"
+"X-Launchpad-Export-Date: 2015-11-13 22:11+0000\n"
+"X-Generator: Launchpad (build 17845)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -39,7 +39,7 @@ msgstr ""
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "Установленные приложения:"
+msgstr "Предустановленное программное обеспечение"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -68,9 +68,9 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Чувствуйте себя как дома, настройте каждую деталь своего рабочего стола под "
-"себя. Выбирайте из большого разнообразия тем, иконок и фоновых рисунков. "
-"Linux Mint понятен и прост в настройке."
+"Чувствуйте себя как дома и измените любую деталь рабочего окружения. "
+"Выбирайте из большого разнообразия тем, иконок и обоев рабочего стола. Linux "
+"Mint открыт и прост в настройке."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -86,16 +86,17 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Если вы хотите что-то узнать, или вы столкнулись с проблемой, ответы на ваши "
-"вопросы просто вокруг вас. Linux Mint стоит на 4й позиции в рейтинге "
-"наиболее используемых операционных систем в мире. В вашем распоряжении "
-"руководство пользователя, сайт сообщества, сбор учебных пособий, форумы, "
-"чаты, и одно из наиболее активных сообществ в Интернете."
+"Если вы хотите что-то узнать или столкнулись с проблемой, ответы на ваши "
+"вопросы буквально витают в воздухе. Linux Mint стоит на 4-й позиции в "
+"рейтинге наиболее используемых операционных систем в мире. В вашем "
+"распоряжении руководство пользователя, сайт сообщества, множество учебных "
+"пособий, активные форумы, чаты и одно из наиболее активных сообществ в "
+"Интернете."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
 msgid "Listen to music and CDs"
-msgstr "Слушайте музыку"
+msgstr "Слушайте музыку и компакт-диски"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
@@ -104,10 +105,9 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"Наслаждайтесь прослушиванием музыки с Banshee. Вы можете подключить свой MP3-"
-"плеер или извлечь песни с аудио-CD. Слушайте подкасты и онлайн радио. "
-"Откройте для себя новых исполнителей на Last.fm, Internet Archive и Amazon "
-"MP3 Store."
+"Наслаждайтесь прослушиванием музыки с Banshee. Подключите свой MP3-плеер или "
+"извлеките песни с аудио-CD. Слушайте подкасты и онлайн радио. Откройте для "
+"себя новых исполнителей на Last.fm, Internet Archive и Amazon MP3 Store."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -117,7 +117,7 @@ msgstr "Banshee"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
 msgid "Audio codecs"
-msgstr "Аудио кодеки"
+msgstr "Аудиокодеки"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
@@ -154,7 +154,7 @@ msgstr "Поддержка формата PDF"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
 msgid "Manage your photos"
-msgstr "Управляйте своими фотографиями"
+msgstr "Управляйте фотографиями"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/photos.html:8
@@ -163,10 +163,9 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Просматривайте, упорядочивайте и обменивайтесь вашими фотографиями в gThumb "
-"или Picasa. Экспортируйте ваши альбомы на CD, в Сеть или онлайн сервисы, "
-"такие как Flickr или PicasaWeb, делая их доступными для своих друзей и "
-"близких."
+"Организуйте, наслаждайтесь и обменивайтесь фотографиями в gThumb или Picasa. "
+"Экспортируйте альбомы на CD, в Сеть или онлайн сервисы, такие как Flickr или "
+"PicasaWeb, делая их доступными для своих друзей и близких."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -184,15 +183,15 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
-"В менеджере программ доступно более 30 000 свободных приложений. Просмотрите "
-"скриншоты и отзывы пользователей к ним. Устанавливайте приложения одним "
-"кликом мыши."
+"В менеджере программ доступно более 30 000 бесплатных приложений. "
+"Просмотрите скриншоты и отзывы пользователей к ним. Устанавливайте "
+"приложения одним кликом мыши."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr "Доступные приложения:"
+msgstr "Рекомендованные приложения"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
@@ -236,7 +235,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr "Смотрите видео"
+msgstr "Смотрите видео и DVD"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
@@ -259,7 +258,7 @@ msgstr "Totem"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr "Видео кодеки"
+msgstr "Видеокодеки"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
@@ -272,8 +271,8 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
 "multimedia content."
 msgstr ""
-"Получите быстрый и безопасный выход в Интернет вместе с Mozilla Firefox. "
-"Наслаждайтесь Java, Flash и мультимедиа контентом."
+"Получите быстрый и безопасный выход в интернет вместе с Mozilla Firefox. "
+"Наслаждайтесь Java, Flash и мультимедиа-контентом."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
@@ -301,9 +300,8 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
-"Добро пожаловать и спасибо, что выбрали Linux Mint. Пока система будет "
-"устанавливаться на ваш компьютер, вы можете посмотреть это ознакомительное "
-"слайд-шоу."
+"Добро пожаловать и спасибо за выбор Linux Mint! Пока система будет "
+"устанавливаться на компьютер, можно посмотреть это ознакомительное слайд-шоу."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
@@ -316,8 +314,9 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Установите Wine и запускайте Windows-программы в Linux Mint. Или установите "
-"Virtualbox, и установите ОС Windows прямо внутри Linux Mint."
+"Установите Wine и запускайте Windows-программы прямо в Linux Mint. Или "
+"установите Virtualbox, что даст возможность запустить ОС Windows внутри "
+"Linux Mint."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

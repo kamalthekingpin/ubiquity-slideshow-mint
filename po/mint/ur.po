@@ -1,16 +1,16 @@
-# Occitan (post 1500) translation for linuxmint
-# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# Urdu translation for linuxmint
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
 # This file is distributed under the same license as the linuxmint package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2013-11-29 10:28+0000\n"
-"Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
-"Language-Team: Occitan (post 1500) <oc@li.org>\n"
+"PO-Revision-Date: 2015-11-05 19:28+0000\n"
+"Last-Translator: Waqar Ahmed <waqar.17a@gmail.com>\n"
+"Language-Team: Urdu <ur@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
 msgid "Stay connected"
-msgstr "Demoratz connectat"
+msgstr "مربوط رہیں"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/chat.html:8
@@ -29,37 +29,33 @@ msgid ""
 "favorite social networks. Linux Mint provides all you need to interact with "
 "Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
 msgstr ""
-"Demoratz en contacte amb vòstres amics par mail, messatjariá o amb l'ajuda "
-"de vòstras rets socialas preferidas. Linux Mint provesís tot çò que n'avètz "
-"besonh per utilizar Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo e "
-"fòrça rets mai."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "Logicials incluses"
+msgstr "شامل کیے گئے سافٹ وئیر"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
 msgid "Thunderbird"
-msgstr "Thunderbird"
+msgstr "تھنڈر برڈ"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:20
 msgid "Pidgin"
-msgstr "Pidgin"
+msgstr "پڈگن"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:24
 msgid "Xchat"
-msgstr "Xchat"
+msgstr "ایکس چیٹ"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/customize.html:1
 msgid "Customize your desktop"
-msgstr "Personalizatz vòstre burèu"
+msgstr "ڈیسک ٹاپ کی تخصیص کیجیئے"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/customize.html:8
@@ -68,14 +64,11 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Metètz-vos d'aise e modificatz cada element de vòstre burèu. Causissètz "
-"demest un larg panèl de tèmas, icònas e fonses d'ecran. Linux Mint es dobèrt "
-"e de bon personalizar."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
 msgid "Find help"
-msgstr "Trobar d'ajuda"
+msgstr "مدد ڈھونڈیں"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/help.html:8
@@ -86,16 +79,11 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Se avètz una question o rencontratz un problèma, vos sufís de demandar. "
-"Linux Mint es lo 4<sup>e</sup> sistèma operatiu lo mai utilizat del monde. "
-"Avètz a vòstra disposicion un guida de l'utilizaire, un site comunautari, "
-"una colleccion de tutorials, de forums actius, de salas de discussion e una "
-"de las comunautats las mai dinamicas sus Internet."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
 msgid "Listen to music and CDs"
-msgstr "Escotatz de musica e de CDs"
+msgstr "موسیقی اور سی ڈی سنئے"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
@@ -104,24 +92,21 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"Profiechatz de vòstra musica amb Banshee. Brancatz vòstre lector MP3 o "
-"extrasètz las cançons dempuèi vòstres CD àudios. Escotatz de podcasts e de "
-"webràdios."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
 msgid "Banshee"
-msgstr "Banshee"
+msgstr "بین شی"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
 msgid "Audio codecs"
-msgstr "Codècs audio"
+msgstr "آڈیو کوڈیک"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
 msgid "Be productive"
-msgstr "Siatz productiu"
+msgstr "بار آور ہوں"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/office.html:8
@@ -130,29 +115,29 @@ msgid ""
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
 msgstr ""
-"Utilizatz LibreOffice per crear de documents professionals, de fuèlhs de "
-"calcul e de presentacions compatiblas amb Microsoft Office. Partejatz "
-"vòstras imprimentas a distància."
+"لبر آفس کے ذریعے پرہفیشنل دستاویزات بنائیں، سپریڈ شیٹ بنائیں اور پریزینٹیشن "
+"بنائیں۔ یہ سب مائیکروسافٹ آفس کے ساتھ مکمل طور پر کمپیٹیبل ہیں۔ پرنٹر شیئر "
+"کریں اور انہیں دور سے، کسی اور کمپیوٹر سے استعمال کریں۔"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
 msgid "LibreOffice"
-msgstr "LibreOffice"
+msgstr "لبرہ آفس"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
 msgid "Microsoft Office Support"
-msgstr "Compatible Microsoft Office"
+msgstr "مائیکروسافٹ آفس کی معاونت"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
 msgid "PDF Support"
-msgstr "Compatible PDF"
+msgstr "پی.ڈی.ایف کی معاونت"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
 msgid "Manage your photos"
-msgstr "Gerissètz vòstras fòtos"
+msgstr "اپنی تصاویر کا انتظام کریں"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/photos.html:8
@@ -161,19 +146,16 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Organizatz, partejatz e profiechatz de vòstras fòtos amb F-Spot o Picasa. "
-"Exportatz vòstres albums cap a un CD, lo Web o un servici en linha tal coma "
-"Flickr o Picasa Web per los partejar amb vòstres amics e vòstra familha."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
 msgid "gThumb"
-msgstr "gThumb"
+msgstr "جی تھمب"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
 msgid "Install software"
-msgstr "Installatz de logicials"
+msgstr "سافٹ وئیر نصب کریں"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/software.html:8
@@ -181,45 +163,42 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
-"Percorrètz las 30 000 aplicacions gratuitas disponiblas dempuèi lo "
-"gestionari de logicials. Profiechatz de las capturas d'ecran e de las "
-"criticas dels utilizaires. Installatz de logicials d'un clic simple."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr "Logicials màgers"
+msgstr "نمایاں سافٹ وئیر"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
 msgid "Filezilla"
-msgstr "Filezilla"
+msgstr "فائل زلّہ"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:20
 msgid "Skype"
-msgstr "Skype"
+msgstr "سکائپ"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:24
 msgid "Audacity"
-msgstr "Audacity"
+msgstr "اوڈا سٹی"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:28
 msgid "Picasa"
-msgstr "Picasa"
+msgstr "پکاسا"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:32
 msgid "Google Earth"
-msgstr "Google Earth"
+msgstr "گوگل ارتھ"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/updates.html:1
 msgid "Keep your system up to date"
-msgstr "Gardatz vòstre sistèma a jorn"
+msgstr "اپنا سسٹم جدید تر رکھئے"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/updates.html:8
@@ -227,42 +206,39 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
-"Recebètz las correccions e las mesas a jorn de seguretat d'un biais unifòrme "
-"e per l'ensemble de vòstre sistèma, incluses los logicials qu'avètz "
-"installats."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr "Agachatz vòstras vidèos e DVD"
+msgstr "وڈیو اور ڈی.وی.ڈی دیکھئے"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
-"Inserissètz un DVD e profiechatz del filme. Agachatz de vidèos en nauta "
-"definicion amb VLC."
+"ڈی.وی.ڈی ڈالیں اور کوئی فلم دیکھیں اور لطف اندوز ہوں۔ ہائی ڈیفنیشن ویڈیو VLC "
+"میں دیکھیں۔"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
 msgid "VLC"
-msgstr "VLC"
+msgstr "وی.ایل.سی"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:20
 msgid "Totem"
-msgstr "Totem"
+msgstr "ٹوٹیم"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr "Codècs vidèo"
+msgstr "ویڈیو کوڈیک"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
 msgid "Browse the web"
-msgstr "Navigar sus Internet"
+msgstr "ویب براؤز کریں"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/web.html:8
@@ -270,28 +246,26 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
 "multimedia content."
 msgstr ""
-"Siatz rapid e en seguretat sus Internet amb Mozilla Firefox. Profiechatz de "
-"Java, Flash e dels contenguts multimèdias."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
 msgid "Firefox"
-msgstr "Firefox"
+msgstr "فائرفاکس"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:20
 msgid "Flash"
-msgstr "Animacion Flash"
+msgstr "فلیش"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:24
 msgid "Java"
-msgstr "Java"
+msgstr "جاوا"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "Benvenguda sus Linux Mint"
+msgstr "لنکس منٹ میں خوش آمدید"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -299,14 +273,13 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
-"Benvenguda e mercé d'aver causit Linux Mint. Aquesta presentacion vos "
-"prepausa un torn d'orizont pendent que lo sistèma s'installa sus vòstre "
-"ordenador."
+"خوش آمدید اور لینکس منٹ چننے کا شکریہ۔ یہ سلائیڈ شو آپکو لینکس منٹ کے بارے "
+"میں بتائے گا جب کت سسٹم آپ کے کمپیوٹر پر نصب کیا جا رہا ہے۔"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr "Aviatz d'aplicacions Windows"
+msgstr "ونڈوز کے سافٹ وئیر چلائیے"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -314,15 +287,15 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Installatz Wine e aviatz de logicials Windows jos Linux Mint. O alara, "
-"installatz VirtualBox e fasètz virar Windows a l'interior de Linux Mint."
+"وائن نصب کریں اور لینکس منٹ میں ونڈوز کے سافٹ وئیر چلائیں۔ یا ورچول باکس نصب "
+"کریں اور ونڈوز کو لینکس منٹ کے اند چلائیں۔"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16
 msgid "Wine"
-msgstr "Wine"
+msgstr "وائن"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:20
 msgid "Virtualbox"
-msgstr "Virtualbox"
+msgstr "ورچوئل باکس"
