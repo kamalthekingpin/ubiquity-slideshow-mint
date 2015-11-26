@@ -25,8 +25,9 @@ template_slides.remove(os.path.join(build_slides, 'index.html'))
 
 directory = {}
 
-for locale_file in glob.glob( os.path.join(po_dir, '*.po') ):
-	locale_name = os.path.basename(locale_file).rstrip('.po')
+locales = glob.glob(os.path.join(po_dir, '*.po'))
+for locale_file in sorted(locales):
+	locale_name = os.path.basename(locale_file).replace(".po", "")
 	locale_slides = os.path.join(build_slides, 'l10n', locale_name)
 	
 	print("Working on locale %s" % locale_name)
