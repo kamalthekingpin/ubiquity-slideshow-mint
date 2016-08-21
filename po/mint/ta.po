@@ -279,7 +279,7 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
 msgid "Firefox"
-msgstr "நெருப்புநரி"
+msgstr "பையர்பாக்ஸ்"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:20
